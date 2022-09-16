@@ -1,5 +1,5 @@
 ## Hard Copy
-A command to quickly output source files to plain paper printer.
+A command to quickly output text files to plain paper printer.
 
 ### Usage:
 ``` hc <ascii-filename>```
