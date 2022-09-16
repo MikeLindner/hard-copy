@@ -10,4 +10,10 @@ A command to quickly output text files to plain paper printer.
 ### Demonstration:
 ```hc hc.sh```
 
+### Files:
+```/etc/enscript/enscript.cfg```
+
+### Reference:
+https://tashian.com/guides/print-out-your-code/
+
 That's all folks!
